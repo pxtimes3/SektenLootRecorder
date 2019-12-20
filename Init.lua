@@ -11,6 +11,6 @@ function SektenLR:OnInitialize()
   
 end
 
-function SektenLR:OnEnabled()
+function SektenLR:OnEnable()
   self:Print("Loaded ("..slr_version..")")
 end
