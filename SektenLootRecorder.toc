@@ -1,0 +1,10 @@
+## Interface: 11303
+## Title: Sekten Loot Recorder
+## Author: Glitterapa and others
+## Notes: Records raid-loot for Sekten Loot Council
+## Version: 0.1
+## SaveVariablesPerCharacter: SektenLootRecorderSaved
+
+
+Init.lua
+Window.lua
