@@ -14,3 +14,7 @@ end
 function SektenLR:OnEnable()
   self:Print("Loaded ("..slr_version..")")
 end
+
+local frame = AceGUI:Create("Frame")
+frame:SetTitle("Example Frame")
+frame:SetStatusText("AceGUI-3.0 Example Container Frame")
